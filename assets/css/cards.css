@@ -28,6 +28,7 @@
   align-items: center;
   flex-basis: inherit;
   flex-grow: inherit;
+  justify-content: center;
 }
 
 html {
