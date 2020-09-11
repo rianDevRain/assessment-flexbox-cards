@@ -17,7 +17,7 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  flex-basis: auto;
+  flex-basis: 250px;
 }
 
 .cardDescription {
@@ -26,7 +26,6 @@
   display: flex;
   flex-direction: inherit;
   align-items: center;
-  flex-basis: inherit;
   flex-grow: inherit;
   justify-content: center;
 }
